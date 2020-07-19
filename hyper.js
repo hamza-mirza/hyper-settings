@@ -172,8 +172,6 @@ module.exports = {
       "gitrocket",
       "hypercwd",
       "hyper-statusline",
-      "hyper-alt-click",
-      "hyperterm-safepaste",
       "hyper-tab-icons",
       "hyper-hide-title",
       "hyper-dark-scrollbar"
