@@ -168,15 +168,15 @@ module.exports = {
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    "hyper-city-lights",
-  	"gitrocket",
-   	"hypercwd",
-    "hyper-statusline",
-    "hyper-alt-click",
-    "hyperterm-safepaste",
-    "hyper-tab-icons",
-    "hyper-hide-title",
-    "hyper-dark-scrollbar"
+      "hyper-city-lights",
+      "gitrocket",
+      "hypercwd",
+      "hyper-statusline",
+      "hyper-alt-click",
+      "hyperterm-safepaste",
+      "hyper-tab-icons",
+      "hyper-hide-title",
+      "hyper-dark-scrollbar"
   ],
 
   // in development, you can create a directory under
