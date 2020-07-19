@@ -1,0 +1,3 @@
+Open ZSH Themes folder: ~/.oh-my-zsh
+Launch the settings for hyper: cmd + ,
+Launch the settings for ZSH: execute "code ~/.zshrc" from your terminal.
